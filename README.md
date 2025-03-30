@@ -1,6 +1,42 @@
 <div align="center">
 <h1>Hi 👋, I'm panos</h1>
-<p>As a software engineer fueled by open-source ideals, I believe code is more than logic—it’s a universal language of empowerment. Every line I write is a brick in a bridge toward a freer, more collaborative future, where transparency and accessibility dismantle barriers to innovation. Open source isn’t just a toolset; it’s a philosophy that thrives on shared curiosity, where every contribution—big or small—ripples across communities, sparking progress from classrooms to boardrooms</p>
+✧･ﾟ: Zero-day warlord. Kernel panic dealer. Godzilla of the mainframe. Rogue root access. :･ﾟ✧
+
+- 💻 Coding in blood (and Java Master)
+- 🎮 sudo rm -rf /your/security
+- 🌐 IPv6 blood, IPv4 sweat
+- 🌌 Existing in 4D but perceiving in 3D (skill issue)
+
+⚠️ WARNING:
+
+- Contains 78% caffeine and 22% dark matter.
+
+- If found offline, wait for respawn.
+
+✧ Current Mission:
+- Corrupting reality.exe ███████▒▒ 89% complete…
+
+✧ Status:
+
+- ✅ Alive (probably in Tor exit node)
+- ⚠️ Wanted in 7 cyber districts
+
+
+
+✧ Contact Protocol:
+
+- 📩 Never DM me for secrets, scams, or unsolicited life advice
+
+- 🔗 curl -X POST https://void/universe
+
+✧ Quotes to Live By:
+
+- "Error 404: Sanity not found."
+- "Segmentation fault (core dumped) is just my way of saying hello."
+- "I didn’t choose the glitch life—the glitch life chose me."
+
+✧ Final Transmission:
+- System.out.println("You’ve been warned.");
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
 <a align="center" target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
