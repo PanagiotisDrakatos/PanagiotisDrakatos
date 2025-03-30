@@ -1,5 +1,3 @@
-<div align="center">
-<h1>Hi 👋, I'm panos</h1>
 ✧･ﾟ: Zero-day warlord. Kernel panic dealer. Godzilla of the mainframe. Rogue root access. :･ﾟ✧
 
 - 💻 Coding in blood (and Java Master)
@@ -37,6 +35,8 @@
 
 ✧ Final Transmission:
 - System.out.println("You’ve been warned.");
+<div align="center">
+<h1>Hi 👋, I'm panos</h1>
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
 <a align="center" target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
