@@ -65,64 +65,35 @@
 
 ---
 
-### `> ls ./languages`
+### `> cat ./metrics/achievements.svg`
 
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=C)
-![C%23](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=Csharp&logoColor=239120)
-![Go](https://img.shields.io/badge/-Go-000?style=flat-square&logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=flat-square&logo=Solidity)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=MySQL)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?style=flat-square&logo=LaTeX)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/main/metrics/achievements.svg" alt="Achievements" />
+</div>
 
-### `> ls ./arsenal`
+### `> cat ./metrics/coding_habits.svg`
 
-![Spring](https://img.shields.io/badge/-Spring_Boot-000?style=flat-square&logo=Spring)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux)
-![Kafka](https://img.shields.io/badge/-Kafka-000?style=flat-square&logo=Apache-Kafka)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=flat-square&logo=RabbitMQ)
-![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=Nginx&logoColor=009639)
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=Amazon-AWS&logoColor=F90)
-![Tor](https://img.shields.io/badge/-Tor-000?style=flat-square&logo=Tor-Browser&logoColor=7D4698)
-![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=Android)
-![Ethereum](https://img.shields.io/badge/-Ethereum-000?style=flat-square&logo=Ethereum)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?style=flat-square&logo=Bitcoin&logoColor=F7931A)
-![OpenSearch](https://img.shields.io/badge/-OpenSearch-000?style=flat-square&logo=OpenSearch)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=React)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/main/metrics/habits.svg" alt="Coding Habits" />
+</div>
 
----
+### `> cat ./metrics/isocalendar.svg`
 
-### `> cat ./projects/blockchain_and_crypto.md`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/main/metrics/isocalendar.svg" alt="Isometric Calendar" />
+</div>
 
-> *"In code we trust. In blockchain we verify."*
+### `> cat ./metrics/stars.svg`
 
-[![](https://img.shields.io/badge/-⛓%20Bitcoin%20%26%20Ethereum%20Nodes%20(One%20Line)-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Bitcoin-Ethereum-Node-With-One-Line)
-[![](https://img.shields.io/badge/-🌐%20SCULPT%20%7C%20Web3%20IoT%20Blockchain%20DB-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/SCULPT)
-[![](https://img.shields.io/badge/-⏱%20VDF4J%20%7C%20Verifiable%20Delay%20Functions-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/VDF4J)
-[![](https://img.shields.io/badge/-🔐%20Universal%20Encryption%20Channel-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Universal-Encryption-Channel)
-[![](https://img.shields.io/badge/-🔑%20IoT%20Crypto%20Library-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Lightweight_IoT_Crypto_Library)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/main/metrics/stars.svg" alt="Recently Starred" />
+</div>
 
-### `> cat ./projects/security_research.md`
+### `> cat ./metrics/sponsors.svg`
 
-> *"I build ransomware to understand ransomware. The FBI agrees... I think."*
-
-[![](https://img.shields.io/badge/-☠%20Java%20Ransomware%20(Academic)%20⭐129-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/JavaRansomware)
-[![](https://img.shields.io/badge/-🧅%20T0rlib4j%20%7C%20Tor%20Controller%20⭐53-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/T0rlib4j)
-[![](https://img.shields.io/badge/-📱%20T0rlib4Android%20⭐25-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/T0rlib4Android)
-[![](https://img.shields.io/badge/-🔍%20TraceMatrix%20%7C%20OSINT%20Platform-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/TraceMatrix)
-[![](https://img.shields.io/badge/-🧠%20Memory%20Exploitation%20%26%20Debugging%20⭐26-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Memory-Management-and-Advanced-Debugging-techniques)
-
-### `> cat ./projects/full_stack.md`
-
-> *"167 stars on a login page. Apparently authentication is hard."*
-
-[![](https://img.shields.io/badge/-🔒%20Spring%20Boot%20Auth%20System%20⭐167-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/SpringBoot-Registration-Login-ThePerfectExample)
-[![](https://img.shields.io/badge/-🌦%20Weather%20Forecast%20⭐71-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Weather-Forecast)
-[![](https://img.shields.io/badge/-📂%20EasyDragDrop%20⭐24-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/EasyDragDrop)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/main/metrics/sponsors.svg" alt="Sponsors" />
+</div>
 
 ---
 
