@@ -1,97 +1,179 @@
-✧･ﾟ: Zero-day warlord. Kernel panic dealer. Godzilla of the mainframe. Rogue root access. :･ﾟ✧
-
-- 💻 Coding in blood (and Java Master)
-- 🎮 sudo rm -rf /your/security
-- 🌐 IPv6 blood, IPv4 sweat
-- 🌌 Existing in 4D but perceiving in 3D (skill issue)
-
-⚠️ WARNING:
-
-- Contains 78% caffeine and 22% dark matter.
-
-- If found offline, wait for respawn.
-
-✧ Current Mission:
-- Corrupting reality.exe ███████▒▒ 89% complete…
-
-✧ Status:
-
-- ✅ Alive (probably in Tor exit node)
-- ⚠️ Wanted in 7 cyber districts
-
-
-
-✧ Contact Protocol:
-
-- 📩 Never DM me for secrets, scams, or unsolicited life advice
-
-- 🔗 curl -X POST https://void/universe
-
-✧ Quotes to Live By:
-
-- "Error 404: Sanity not found."
-- "Segmentation fault (core dumped) is just my way of saying hello."
-- "I didn’t choose the glitch life—the glitch life chose me."
-
-✧ Final Transmission:
-- System.out.println("You’ve been warned.");
 <div align="center">
-<h1>Hi 👋, I'm panos</h1>
-<h2>🚀 Languages and Tools I Use</h2>
-<p align="center"><a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a align="center" target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&show_icons=true&locale=en" alt="PanagiotisDrakatos" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&" alt="PanagiotisDrakatos" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PanagiotisDrakatos&show_icons=true&locale=en&layout=compact" alt="PanagiotisDrakatos" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PanagiotisDrakatos" alt="PanagiotisDrakatos" /></a></p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PanagiotisDrakatos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-</div>
+<!-- HEADER: Animated typing -->
+<a href="https://github.com/PanagiotisDrakatos">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%24+whoami;Panagiotis+Drakatos+%7C+Security+%2B+Blockchain+Engineer" alt="Typing SVG" />
+</a>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="circleci logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<!-- BADGES ROW -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=0D1117)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=0D1117)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=0D1117)
+![](https://img.shields.io/badge/Caffeine_Level-Critical-informational?style=flat-square&logo=buymeacoffee&logoColor=white&color=FF0000)
+
+<br>
+
+```
+ ██████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ ████████╗ ██████╗ ███████╗
+ ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗██╔════╝
+ ██║  ██║██████╔╝███████║█████╔╝ ███████║   ██║   ██║   ██║███████╗
+ ██║  ██║██╔══██╗██╔══██║██╔═██╗ ██╔══██║   ██║   ██║   ██║╚════██║
+ ██████╔╝██║  ██║██║  ██║██║  ██╗██║  ██║   ██║   ╚██████╔╝███████║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=PanagiotisDrakatos&label=Systems+Scanned&color=00FF41&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+---
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFwMm0ycGoxeGRheWJwZWxodW5vcXB4NDhhdmNiMHZ5OXpiemU4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+
+### `> cat /etc/about_me`
+
+```yaml
+name: Panagiotis Drakatos
+location: Greece 🇬🇷
+role: Software Engineer & Security Researcher
+alignment: Chaotic Good
+
+interests:
+  - Breaking things (legally)
+  - Building things (with Tor)
+  - Blockchain consensus mechanisms
+  - Low-level memory exploitation
+  - Making ransomware (for science)
+
+current_mission: "Corrupting reality.exe ███████▒▒ 89%"
+
+fun_facts:
+  - "78% caffeine, 22% dark matter"
+  - "My first Hello World was in Assembly"
+  - "I run a Tor exit node for fun"
+  - "129 people starred my ransomware. Should I be worried?"
+```
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+---
 
+### `> ls ./languages`
+
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=C)
+![C%23](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=Csharp&logoColor=239120)
+![Go](https://img.shields.io/badge/-Go-000?style=flat-square&logo=Go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
+![Solidity](https://img.shields.io/badge/-Solidity-000?style=flat-square&logo=Solidity)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=MySQL)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?style=flat-square&logo=LaTeX)
+
+### `> ls ./arsenal`
+
+![Spring](https://img.shields.io/badge/-Spring_Boot-000?style=flat-square&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux)
+![Kafka](https://img.shields.io/badge/-Kafka-000?style=flat-square&logo=Apache-Kafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=flat-square&logo=RabbitMQ)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=Nginx&logoColor=009639)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=Amazon-AWS&logoColor=F90)
+![Tor](https://img.shields.io/badge/-Tor-000?style=flat-square&logo=Tor-Browser&logoColor=7D4698)
+![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=Android)
+![Ethereum](https://img.shields.io/badge/-Ethereum-000?style=flat-square&logo=Ethereum)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?style=flat-square&logo=Bitcoin&logoColor=F7931A)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-000?style=flat-square&logo=OpenSearch)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=React)
+
+---
+
+### `> cat ./projects/blockchain_and_crypto.md`
+
+> *"In code we trust. In blockchain we verify."*
+
+[![](https://img.shields.io/badge/-⛓%20Bitcoin%20%26%20Ethereum%20Nodes%20(One%20Line)-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Bitcoin-Ethereum-Node-With-One-Line)
+[![](https://img.shields.io/badge/-🌐%20SCULPT%20%7C%20Web3%20IoT%20Blockchain%20DB-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/SCULPT)
+[![](https://img.shields.io/badge/-⏱%20VDF4J%20%7C%20Verifiable%20Delay%20Functions-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/VDF4J)
+[![](https://img.shields.io/badge/-🔐%20Universal%20Encryption%20Channel-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Universal-Encryption-Channel)
+[![](https://img.shields.io/badge/-🔑%20IoT%20Crypto%20Library-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Lightweight_IoT_Crypto_Library)
+
+### `> cat ./projects/security_research.md`
+
+> *"I build ransomware to understand ransomware. The FBI agrees... I think."*
+
+[![](https://img.shields.io/badge/-☠%20Java%20Ransomware%20(Academic)%20⭐129-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/JavaRansomware)
+[![](https://img.shields.io/badge/-🧅%20T0rlib4j%20%7C%20Tor%20Controller%20⭐53-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/T0rlib4j)
+[![](https://img.shields.io/badge/-📱%20T0rlib4Android%20⭐25-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/T0rlib4Android)
+[![](https://img.shields.io/badge/-🔍%20TraceMatrix%20%7C%20OSINT%20Platform-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/TraceMatrix)
+[![](https://img.shields.io/badge/-🧠%20Memory%20Exploitation%20%26%20Debugging%20⭐26-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Memory-Management-and-Advanced-Debugging-techniques)
+
+### `> cat ./projects/full_stack.md`
+
+> *"167 stars on a login page. Apparently authentication is hard."*
+
+[![](https://img.shields.io/badge/-🔒%20Spring%20Boot%20Auth%20System%20⭐167-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/SpringBoot-Registration-Login-ThePerfectExample)
+[![](https://img.shields.io/badge/-🌦%20Weather%20Forecast%20⭐71-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/Weather-Forecast)
+[![](https://img.shields.io/badge/-📂%20EasyDragDrop%20⭐24-000?style=for-the-badge)](https://github.com/PanagiotisDrakatos/EasyDragDrop)
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PanagiotisDrakatos/count.svg?"  />
+
+### `> neofetch --stats`
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&theme=dark" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisDrakatos&hide=html,css,tex&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&theme=dark" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisDrakatos&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" />
+
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=PanagiotisDrakatos&theme=matrix&no-frame=true&column=7&no-bg=true" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> ./snake_game --eat-contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "Error 404: Sanity not found."                                ║
+║   "Segmentation fault (core dumped) is just my way of hello."   ║
+║                                                                  ║
+║   Status: ✅ Alive (probably in a Tor exit node)                ║
+║   Threat Level: ██████████░░ sudo                               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" />
+
 </div>
