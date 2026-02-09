@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <img width="320" src="https://media.giphy.com/media/sweInTtBnNOC8v3R9b/giphy.gif" />
+  <img width="380" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/main/assets/cyberface.gif" />
 </div>
 
 <br>
@@ -130,8 +130,7 @@
 
 ### `> neofetch --stats`
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&theme=dark" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisDrakatos&hide=html,css,tex&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&theme=dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&theme=dark" />
 
 <br><br>
 
@@ -163,22 +162,7 @@
 
 </div>
 
----
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Error 404: Sanity not found."                                ║
-║   "Segmentation fault (core dumped) is just my way of hello."   ║
-║                                                                  ║
-║   Status: ✅ Alive (probably in a Tor exit node)                ║
-║   Threat Level: ██████████░░ sudo                               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" />
 </div>
