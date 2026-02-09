@@ -105,14 +105,14 @@
 ### `> ls -la ~/projects/`
 
 <a href="https://github.com/Adrestus-net/Adrestus">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
 </a>
 <a href="https://github.com/PanagiotisDrakatos/vdf4j">
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
 </a>
 
-<a href="hhttps://github.com/PanagiotisDrakatos/T0rlib4j">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Torlib4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+<a href="https://github.com/PanagiotisDrakatos/T0rlib4j">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
 </a>
 <a href="https://github.com/PanagiotisDrakatos/TraceMatrix">
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
