@@ -30,7 +30,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFwMm0ycGoxeGRheWJwZWxodW5vcXB4NDhhdmNiMHZ5OXpiemU4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW90amdhN3RvMXM5NWNhbDVob3A4MGdscHl5bWF4azB6aHVmMGN0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/sweInTtBnNOC8v3R9b/giphy.gif" />
 
 ### `> cat /etc/about_me`
 
