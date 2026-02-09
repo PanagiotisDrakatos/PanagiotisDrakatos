@@ -30,33 +30,38 @@
 
 ---
 
-<img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW90amdhN3RvMXM5NWNhbDVob3A4MGdscHl5bWF4azB6aHVmMGN0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/sweInTtBnNOC8v3R9b/giphy.gif" />
+<div align="center">
+  <img width="320" src="https://media.giphy.com/media/sweInTtBnNOC8v3R9b/giphy.gif" />
+</div>
 
-### `> cat /etc/about_me`
+<br>
 
-```yaml
-name: Panagiotis Drakatos
-location: Greece 🇬🇷
-role: Software Engineer & Security Researcher
-alignment: Chaotic Good
+✧･ﾟ: **Zero-day warlord. Kernel panic dealer. Godzilla of the mainframe. Rogue root access.** :･ﾟ✧
 
-interests:
-  - Breaking things (legally)
-  - Building things (with Tor)
-  - Blockchain consensus mechanisms
-  - Low-level memory exploitation
-  - Making ransomware (for science)
+- 💻 Coding in blood (and Java Master)
+- 🎮 `sudo rm -rf /your/security`
+- 🌐 IPv6 blood, IPv4 sweat
+- 🌌 Existing in 4D but perceiving in 3D (skill issue)
+- ⛓ Building on-chain. Breaking off-chain.
 
-current_mission: "Corrupting reality.exe ███████▒▒ 89%"
+⚠️ **WARNING:**
+- Contains 78% caffeine and 22% dark matter.
+- If found offline, wait for respawn.
 
-fun_facts:
-  - "78% caffeine, 22% dark matter"
-  - "My first Hello World was in Assembly"
-  - "I run a Tor exit node for fun"
-  - "129 people starred my ransomware. Should I be worried?"
-```
+✧ **Current Mission:**
+- Corrupting reality.exe ███████▒▒ 89% complete…
 
-<br clear="both">
+✧ **Status:**
+- ✅ Alive (probably in Tor exit node)
+- ⚠️ Wanted in 7 cyber districts
+
+✧ **Quotes to Live By:**
+- *"Error 404: Sanity not found."*
+- *"Segmentation fault (core dumped) is just my way of saying hello."*
+- *"I didn't choose the glitch life—the glitch life chose me."*
+
+✧ **Final Transmission:**
+- `System.out.println("You've been warned.");`
 
 ---
 
