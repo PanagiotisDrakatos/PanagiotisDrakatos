@@ -4,7 +4,7 @@
 
 <!-- HEADER: Animated typing -->
 <a href="https://github.com/PanagiotisDrakatos">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=100&lines=%24+whoami;Drakatos+%7C+Security+%2B+Blockchain+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=100&lines=%24+whoami;%8CDrakatos+%7C+Security+%2B+Blockchain+Engineer" alt="Typing SVG" />
 </a>
 
 <br>
@@ -94,6 +94,35 @@
 <br><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-trophies.vercel.app/?username=PanagiotisDrakatos&theme=default&no-frame=true&column=7&no-bg=true" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> ls -la ~/projects/`
+
+<a href="https://github.com/PanagiotisDrakatos/Adrestus">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+</a>
+<a href="https://github.com/PanagiotisDrakatos/vdf4j">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/PanagiotisDrakatos/Torlib4j">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Torlib4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+</a>
+<a href="https://github.com/PanagiotisDrakatos/TraceMatrix">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/PanagiotisDrakatos/javaransomware">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
+</a>
+<a href="https://github.com/PanagiotisDrakatos/Memory-Management-and-Advanced-Debugging-techniques">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF" />
 </a>
 
 </div>
