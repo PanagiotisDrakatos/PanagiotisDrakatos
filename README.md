@@ -181,11 +181,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/PanagiotisDrakatos/Memory-Management-and-Advanced-Debugging-techniques">
+      <a href="[https://github.com/PanagiotisDrakatos/Memory-Management-and-Advanced-Debugging-techniques](https://github.com/PanagiotisDrakatos/SpringBoot-Registration-Login-ThePerfectExample)">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="Memory Management" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=MSpringBoot-Registration-Login-ThePerfectExample&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="Memory Management" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
