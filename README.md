@@ -4,17 +4,28 @@
 
 <!-- HEADER: Animated typing -->
 <a href="https://github.com/PanagiotisDrakatos">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%24+whoami;Drakatos+%7C+Security+%2B+Blockchain+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%24+whoami;Drakatos+%7C+Security+%2B+Blockchain+Engineer" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- BADGES ROW -->
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=0D1117)
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=0D1117)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=0D1117)
-![](https://img.shields.io/badge/Caffeine_Level-Critical-informational?style=flat-square&logo=buymeacoffee&logoColor=white&color=FF0000)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white)
+<br>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tor](https://img.shields.io/badge/-Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-087CFA?style=flat-square&logo=intellijidea&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Caffeine](https://img.shields.io/badge/-Caffeine_Lv.99-FF0000?style=flat-square&logo=buymeacoffee&logoColor=white)
 
 <br>
 
@@ -86,17 +97,17 @@
 ### `> neofetch --stats`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=4ADE80&icon_color=4ADE80&bg_color=0D1117&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=111827&icon_color=10B981&bg_color=FFFFFF&theme=default" />
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=4ADE80&icon_color=4ADE80&bg_color=0D1117&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=111827&icon_color=0969DA&bg_color=FFFFFF&theme=default" />
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&theme=dark" />
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=default&background=FFFFFF&ring=10B981&fire=10B981&currStreakLabel=10B981&hide_border=true" />
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=default&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&hide_border=true" />
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" />
 </picture>
 
 <br><br>
@@ -121,18 +132,18 @@
     <td align="center">
       <a href="https://github.com/Adrestus-net/Adrestus">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=10B981&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="Adrestus" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="Adrestus" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/PanagiotisDrakatos/vdf4j">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=10B981&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="vdf4j" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="vdf4j" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
@@ -142,18 +153,18 @@
     <td align="center">
       <a href="https://github.com/PanagiotisDrakatos/T0rlib4j">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=10B981&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="T0rlib4j" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="T0rlib4j" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/PanagiotisDrakatos/TraceMatrix">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=10B981&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="TraceMatrix" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="TraceMatrix" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
@@ -163,18 +174,18 @@
     <td align="center">
       <a href="https://github.com/PanagiotisDrakatos/javaransomware">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=10B981&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="javaransomware" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="javaransomware" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/PanagiotisDrakatos/Memory-Management-and-Advanced-Debugging-techniques">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=10B981&title_color=111827&description_lines=2&card_width=390" />
-          <img width="390" alt="Memory Management" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=4ADE80&icon_color=4ADE80&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&text_color=111827&icon_color=0969DA&title_color=111827&description_lines=2&card_width=390" />
+          <img width="390" alt="Memory Management" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=Memory-Management-and-Advanced-Debugging-techniques&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=FFFFFF&description_lines=2&card_width=390" />
         </picture>
       </a>
     </td>
@@ -199,5 +210,5 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PanagiotisDrakatos&style=flat-square&color=4ADE80&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=PanagiotisDrakatos&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
