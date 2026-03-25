@@ -44,17 +44,17 @@
 
 <br>
 
-✧･ﾟ: **Zero-day warlord. Kernel panic dealer. Godzilla of the mainframe. Rogue root access.** :･ﾟ✧
+✧･ﾟ: **Blockchain researcher &amp; distributed systems engineer. 7 peer-reviewed IEEE/Springer publications. Creator of Adrestus (~300K LOC, solo).** :･ﾟ✧
 
 - 💻 Coding in blood (and Java Master)
-- 🎮 `sudo rm -rf /your/security`
+- 🔬 Building open-source governance and trust infrastructure
 - 🌐 IPv6 blood, IPv4 sweat
 - 🌌 Existing in 4D but perceiving in 3D (skill issue)
 - ⛓ Building on-chain. Breaking off-chain.
 
 ⚠️ **WARNING:**
 
-- Contains 78% caffeine and 22% dark matter.
+- Fueled by curiosity, strong coffee, and open-source conviction.
 - If found offline, wait for respawn.
 
 ✧ **Current Mission:**
