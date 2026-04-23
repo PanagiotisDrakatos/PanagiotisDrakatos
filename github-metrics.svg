@@ -425,8 +425,8 @@
                             <div class="label" title="">artificial-intelligence</div>
                             <div class="label" title="">ai-agents</div>
                             <div class="label" title="Claude Code is a command-line interface that brings AI assistance to software development.">claude code</div>
-                            <div class="label" title="">performance</div>
                             <div class="label" title="">openclaw</div>
+                            <div class="label" title="">performance</div>
                             <div class="label" title="">optimize</div>
                             <div class="label" title="">agentic-coding</div>
                         </div>
@@ -1703,7 +1703,7 @@ FindLasstEntryWithArrayMethod : took 0.025 milliseconds
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2026, 16:36:41 (timezone Europe/Athens) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2026, 17:49:54 (timezone Europe/Athens) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
