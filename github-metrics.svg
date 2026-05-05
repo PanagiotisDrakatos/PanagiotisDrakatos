@@ -420,8 +420,8 @@
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="Rust is a systems programming language created by Mozilla.">rust</div>
                             <div class="label" title="Artificial intelligence is the ability of a computer or machine to perform tasks commonly associated with intelligent beings.">artificial intelligence</div>
-                            <div class="label" title="The technique of making an apparatus, a process, or a system operate automatically.">automation</div>
                             <div class="label" title="Machine learning models trained on vast amounts of text data to understand and generate human-like language.">large language model</div>
+                            <div class="label" title="The technique of making an apparatus, a process, or a system operate automatically.">automation</div>
                             <div class="label" title="">artificial-intelligence</div>
                             <div class="label" title="">ai-agents</div>
                             <div class="label" title="Claude Code is a command-line interface that brings AI assistance to software development.">claude code</div>
@@ -1687,7 +1687,7 @@ FindLasstEntryWithArrayMethod : took 0.025 milliseconds
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2026, 00:25:11 (timezone Europe/Athens) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2026, 01:23:21 (timezone Europe/Athens) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
