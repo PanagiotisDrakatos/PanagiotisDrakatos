@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Panagiotis Drakatos&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 520, Total Commits  : 1615, Total PRs: 35, Total Issues: 42, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 520, Total Commits  : 1616, Total PRs: 36, Total Issues: 42, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.59629031844335;
+        stroke-dashoffset: 78.05432970609755;
       }
     }
   
@@ -185,7 +185,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >35</text>
+      >36</text>
     </g>
   </g><g transform="translate(0, 63)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
