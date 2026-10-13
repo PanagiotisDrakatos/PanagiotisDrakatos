@@ -97,14 +97,6 @@
 ### `> neofetch --stats`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=111827&icon_color=0969DA&bg_color=FFFFFF&theme=default" />
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&theme=dark" />
-</picture>
-
-<br><br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=default&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&hide_border=true" />
   <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" />
