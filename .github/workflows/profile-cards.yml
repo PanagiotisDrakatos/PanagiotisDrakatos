@@ -1,0 +1,169 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, codex/profile-loading-fixes]
+    paths: [.github/workflows/profile-cards.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  render:
+    name: Render ${{ matrix.name }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        include:
+          - name: stats-dark
+            card: stats
+            options: username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&theme=dark
+          - name: stats-light
+            card: stats
+            options: username=PanagiotisDrakatos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=111827&icon_color=0969DA&bg_color=FFFFFF&theme=default
+          - name: adrestus-dark
+            card: pin
+            options: username=Adrestus-net&repo=Adrestus&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines_count=2&card_width=390
+          - name: adrestus-light
+            card: pin
+            options: username=Adrestus-net&repo=Adrestus&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines_count=2&card_width=390
+          - name: vdf4j-dark
+            card: pin
+            options: username=PanagiotisDrakatos&repo=vdf4j&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines_count=2&card_width=390
+          - name: vdf4j-light
+            card: pin
+            options: username=PanagiotisDrakatos&repo=vdf4j&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines_count=2&card_width=390
+          - name: t0rlib4j-dark
+            card: pin
+            options: username=PanagiotisDrakatos&repo=T0rlib4j&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines_count=2&card_width=390
+          - name: t0rlib4j-light
+            card: pin
+            options: username=PanagiotisDrakatos&repo=T0rlib4j&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines_count=2&card_width=390
+          - name: tracematrix-dark
+            card: pin
+            options: username=PanagiotisDrakatos&repo=TraceMatrix&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines_count=2&card_width=390
+          - name: tracematrix-light
+            card: pin
+            options: username=PanagiotisDrakatos&repo=TraceMatrix&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines_count=2&card_width=390
+          - name: javaransomware-dark
+            card: pin
+            options: username=PanagiotisDrakatos&repo=javaransomware&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines_count=2&card_width=390
+          - name: javaransomware-light
+            card: pin
+            options: username=PanagiotisDrakatos&repo=javaransomware&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines_count=2&card_width=390
+          - name: springboot-dark
+            card: pin
+            options: username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines_count=2&card_width=390
+          - name: springboot-light
+            card: pin
+            options: username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines_count=2&card_width=390
+    steps:
+      - name: Generate SVG
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: ${{ matrix.card }}
+          options: ${{ matrix.options }}
+          path: generated/${{ matrix.name }}.svg
+          core_version: "2.2.0"
+          fail_on_error: true
+          token: ${{ github.token }}
+
+      - name: Upload SVG
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: profile-card-${{ matrix.name }}
+          path: generated/${{ matrix.name }}.svg
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    name: Validate and publish all 14 cards
+    needs: render
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/codex/profile-loading-fixes'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Download SVGs
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          pattern: profile-card-*
+          merge-multiple: true
+          path: generated
+
+      - name: Reject missing, malformed or error cards
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          def validate_card(svg, label):
+              root = ET.fromstring(svg)
+              if root.tag != "{http://www.w3.org/2000/svg}svg":
+                  raise ValueError("Not an SVG document")
+              text = " ".join(root.itertext()).casefold()
+              errors = (
+                  "something went wrong", "maximum retries exceeded",
+                  "no github api tokens", "please add an env variable", "pat_1",
+              )
+              if any(message in text for message in errors):
+                  raise ValueError("Renderer returned an error card")
+              if label.casefold() not in text:
+                  raise ValueError(f"Missing expected card identity: {label}")
+
+          # An error SVG can have valid XML and the correct repository title.
+          error_svg = '<svg xmlns="http://www.w3.org/2000/svg"><title>vdf4j</title><text>Maximum retries exceeded</text></svg>'
+          try:
+              validate_card(error_svg, "vdf4j")
+          except ValueError as error:
+              if "error card" not in str(error):
+                  raise
+          else:
+              raise AssertionError("Error-card regression check failed")
+
+          cards = {
+              "stats": "PanagiotisDrakatos",
+              "adrestus": "Adrestus",
+              "vdf4j": "vdf4j",
+              "t0rlib4j": "T0rlib4j",
+              "tracematrix": "TraceMatrix",
+              "javaransomware": "javaransomware",
+              "springboot": "SpringBoot-Registration-Login",
+          }
+          expected = {
+              f"{name}-{theme}.svg": label
+              for name, label in cards.items()
+              for theme in ("dark", "light")
+          }
+          directory = Path("generated")
+          actual = {path.name for path in directory.iterdir()}
+          if actual != set(expected):
+              raise ValueError(f"Unexpected card set: missing={set(expected) - actual}, extra={actual - set(expected)}")
+          for filename, label in expected.items():
+              validate_card((directory / filename).read_text(), label)
+              print(f"Validated {filename}")
+          print("All 14 SVGs passed; error-card regression check passed")
+          PY
+
+      - name: Publish validated SVGs
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: profile-cards
+          build_dir: generated
+          keep_history: true
+          allow_empty_commit: false
+          commit_message: Update generated profile cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
