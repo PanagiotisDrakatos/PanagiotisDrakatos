@@ -5,7 +5,7 @@ on:
     - cron: "17 3 * * *"
   workflow_dispatch:
   push:
-    branches: [main, codex/profile-loading-fixes]
+    branches: [main]
     paths: [.github/workflows/profile-cards.yml]
 
 permissions:
@@ -89,7 +89,7 @@ jobs:
   publish:
     name: Validate and publish all 14 cards
     needs: render
-    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/codex/profile-loading-fixes'
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:

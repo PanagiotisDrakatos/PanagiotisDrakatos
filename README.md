@@ -97,6 +97,14 @@
 ### `> neofetch --stats`
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/stats-light.svg" />
+  <img height="180" alt="GitHub Stats" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/stats-dark.svg" />
+</picture>
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=default&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&hide_border=true" />
   <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisDrakatos&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" />
@@ -121,46 +129,46 @@
 
 <a href="https://github.com/Adrestus-net/Adrestus">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines=2&card_width=390" />
-    <img width="390" alt="Adrestus" src="https://github-readme-stats.vercel.app/api/pin/?username=Adrestus-net&repo=Adrestus&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/adrestus-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/adrestus-light.svg" />
+    <img width="390" alt="Adrestus" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/adrestus-dark.svg" />
   </picture>
 </a>
 <a href="https://github.com/PanagiotisDrakatos/vdf4j">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines=2&card_width=390" />
-    <img width="390" alt="vdf4j" src="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=vdf4j&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/vdf4j-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/vdf4j-light.svg" />
+    <img width="390" alt="vdf4j" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/vdf4j-dark.svg" />
   </picture>
 </a>
 
 <a href="https://github.com/PanagiotisDrakatos/T0rlib4j">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines=2&card_width=390" />
-    <img width="390" alt="T0rlib4j" src="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=T0rlib4j&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/t0rlib4j-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/t0rlib4j-light.svg" />
+    <img width="390" alt="T0rlib4j" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/t0rlib4j-dark.svg" />
   </picture>
 </a>
 <a href="https://github.com/PanagiotisDrakatos/TraceMatrix">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines=2&card_width=390" />
-    <img width="390" alt="TraceMatrix" src="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=TraceMatrix&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/tracematrix-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/tracematrix-light.svg" />
+    <img width="390" alt="TraceMatrix" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/tracematrix-dark.svg" />
   </picture>
 </a>
 
 <a href="https://github.com/PanagiotisDrakatos/javaransomware">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines=2&card_width=390" />
-    <img width="390" alt="javaransomware" src="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=javaransomware&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/javaransomware-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/javaransomware-light.svg" />
+    <img width="390" alt="javaransomware" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/javaransomware-dark.svg" />
   </picture>
 </a>
 <a href="https://github.com/PanagiotisDrakatos/SpringBoot-Registration-Login-ThePerfectExample">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&bg_color=00000000&hide_border=false&border_color=D0D7DE&text_color=656D76&icon_color=0969DA&title_color=24292F&description_lines=2&card_width=390" />
-    <img width="390" alt="SpringBoot Registration Login" src="https://github-readme-stats.vercel.app/api/pin/?username=PanagiotisDrakatos&repo=SpringBoot-Registration-Login-ThePerfectExample&bg_color=00000000&hide_border=false&border_color=30363D&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3&description_lines=2&card_width=390" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/springboot-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/springboot-light.svg" />
+    <img width="390" alt="SpringBoot Registration Login" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/profile-cards/springboot-dark.svg" />
   </picture>
 </a>
 
