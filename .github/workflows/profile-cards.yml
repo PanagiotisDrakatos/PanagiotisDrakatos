@@ -121,7 +121,7 @@ jobs:
               if any(message in text for message in errors):
                   raise ValueError("Renderer returned an error card")
               if label.casefold() not in text:
-                  raise ValueError(f"Missing expected card identity: {label}")
+                  raise ValueError(f"Missing expected card content: {label}")
 
           # An error SVG can have valid XML and the correct repository title.
           error_svg = '<svg xmlns="http://www.w3.org/2000/svg"><title>vdf4j</title><text>Maximum retries exceeded</text></svg>'
@@ -134,7 +134,8 @@ jobs:
               raise AssertionError("Error-card regression check failed")
 
           cards = {
-              "stats": "PanagiotisDrakatos",
+              # The stats title uses the mutable display name instead of the login.
+              "stats": "Total Stars Earned",
               "adrestus": "Adrestus",
               "vdf4j": "vdf4j",
               "t0rlib4j": "T0rlib4j",
