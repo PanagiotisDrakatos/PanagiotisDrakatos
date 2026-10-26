@@ -423,8 +423,8 @@
                             <div class="label" title="">ai-agents</div>
                             <div class="label" title="Machine learning models trained on vast amounts of text data to understand and generate human-like language.">large language model</div>
                             <div class="label" title="The technique of making an apparatus, a process, or a system operate automatically.">automation</div>
-                            <div class="label" title="">artificial-intelligence</div>
                             <div class="label" title="Two distinct meanings: (i) a network service that runs on a user&amp;apos;s server; or (ii) a computer program that can compile itself.">self-hosted</div>
+                            <div class="label" title="">artificial-intelligence</div>
                             <div class="label" title="Claude Code is a command-line interface that brings AI assistance to software development.">claude code</div>
                             <div class="label" title="">best-practices</div>
                             <div class="label" title="">home-automation</div>
@@ -1684,7 +1684,7 @@ FindLasstEntryWithArrayMethod : took 0.025 milliseconds
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2026, 11:20:00 (timezone Europe/Athens) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 26 Oct 2026, 12:13:52 (timezone Europe/Athens) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
