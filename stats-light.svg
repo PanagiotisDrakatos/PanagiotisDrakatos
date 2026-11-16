@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Panagiotis Drakatos&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 521, Total Commits  : 1616, Total PRs: 38, Total Issues: 47, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 521, Total Commits  : 1616, Total PRs: 38, Total Issues: 47, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -215,7 +215,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >9</text>
+      >8</text>
     </g>
   </g>
     </svg>
